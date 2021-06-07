@@ -30,4 +30,24 @@ First:
  **Exercise 2: Revenue Prediction**
  
 
+
+**Assignment 3 1 page description**
+
+Assumption: Something is duplicate if the name, country and city are the same.
+
+Get df and make copy
+
+Explore the data (check Nan, unique, dtypes and duplicates for applicable columns)
+
+Group by Name Country and City and count them
+
+Add column: Join(Name country and City)
+
+Filer counts>1 (i.e., duplicates)
+
+Make CSV
+
+Other things to consider:
+
+Some of the companies have very similar names and could potentially be duplicates (e.g., "3NCRYPT3D Messaging Services" and "3NCRYPT3D"). Did not work on it this time.
        
