@@ -17,3 +17,4 @@ I tried in two ways:
 **  driver = webdriver.Chrome(executable_path='c:\path\to\windows\webdriver\executable.exe')
 **
 
+**Although I create a pythonfile in python i was not able to collect the scraped data, I cannot pass through the web verification code.******
