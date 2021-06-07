@@ -25,13 +25,13 @@ First:
 
 **-I was detected by the website as a robot and again i could not pass through.**
  But provided the code:
- 
- 
+ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
  **Exercise 2: Revenue Prediction**
- 
+ Excercise2_Random Forest.ipynb
+ Uploaded tranformed csv file.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-
-**Assignment 3 1 page description**
+**Excerise 3**
 
 Assumption: Something is duplicate if the name, country and city are the same.
 
@@ -46,8 +46,4 @@ Add column: Join(Name country and City)
 Filer counts>1 (i.e., duplicates)
 
 Make CSV
-
-Other things to consider:
-
-Some of the companies have very similar names and could potentially be duplicates (e.g., "3NCRYPT3D Messaging Services" and "3NCRYPT3D"). Did not work on it this time.
-       
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
