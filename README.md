@@ -12,7 +12,7 @@ First:
   **Pandas** is used to create structured data
   **Selenium** provides browser automation
   
-  I begined by defining our browser. Depending on the webdriver we picked back in “WebDriver and browsers”  I typed in:
+  I begined by defining our browser. Depending on the webdriver i picked back in “WebDriver and browsers”  I typed in:
   
 **  driver = webdriver.Chrome(executable_path='c:\path\to\windows\webdriver\executable.exe')
 **
