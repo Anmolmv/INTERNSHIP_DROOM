@@ -24,8 +24,6 @@ First:
 **I tried with another code** 
 
 **-I was detected by the website as a robot and again i could not pass through.**
+ But provided the code:
  
-
-
-
        
