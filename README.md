@@ -4,7 +4,7 @@ MY INTERNSHIP TEST
 **Exercise 1: G2 Scraper**
 
 I tried in two ways:
-
+First:
 **pycharm IDE**
 
  -I used three important libraries -BeautifulSoup v4, Pandas, and Selenium.
@@ -17,4 +17,15 @@ I tried in two ways:
 **  driver = webdriver.Chrome(executable_path='c:\path\to\windows\webdriver\executable.exe')
 **
 
-**Although I create a pythonfile in python i was not able to collect the scraped data, I cannot pass through the web verification code.******
+**Although I create a pythonfile in pycharm i was not able to collect the scraped data, I cannot pass through the web verification code.**
+
+ Second:
+ 
+**I tried with another code** 
+
+**-I was detected by the website as a robot and again i could not pass through.**
+ 
+
+
+
+       
